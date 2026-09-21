@@ -1,4 +1,4 @@
-package lab1;
+package lw01.Unguided.lab1;
 
 public class laptopRental extends Rental {
 
@@ -20,7 +20,7 @@ public class laptopRental extends Rental {
     public String label(){
 
         return "Laptop";
-        
+
     }
 
 }

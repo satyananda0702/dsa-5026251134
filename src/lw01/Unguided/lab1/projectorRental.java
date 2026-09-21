@@ -1,11 +1,11 @@
-package lab1;
+package lw01.Unguided.lab1;
 
 public class projectorRental extends Rental {
 
     public projectorRental(String id, int days) {
 
         super(id, days);
-        
+
     }
 
     @Override

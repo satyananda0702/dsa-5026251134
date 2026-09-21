@@ -1,4 +1,4 @@
-package lab1;
+package lw01.Unguided.lab1;
 
 import java.io.File;
 import java.io.FileNotFoundException;

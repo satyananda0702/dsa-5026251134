@@ -1,4 +1,4 @@
-package lab1;
+package lw01.Unguided.lab1;
 
 public abstract class Rental implements chargeable {
 
